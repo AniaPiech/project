@@ -25,6 +25,8 @@ The dataset we use stems from the [Bank of England Research datasets](https://ww
 
 I quote:
 
+
+
 > *This dataset contains the individual responses to our Inflation Attitudes Survey, a quarterly survey of people’s feelings about inflation and other economic variables like the interest rate. *
 
 ```{r load-inflation}
